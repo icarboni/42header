@@ -5,7 +5,7 @@ cd ~/.vim
 #clona el plugin necesario para añadir el header usando vim desde el repositorio de github
 git clone https://github.com/pbondoer/vim-42header.git clone
 #vuelve a la raíz(root)
-mv ~/.vim/vim-42header/after ~/.vim
+mv ~/.vim/clone/after ~/.vim
 rm -fR ~/.vim/vim-42header
 cd ~
 #crea un archivo ".zshrc"
