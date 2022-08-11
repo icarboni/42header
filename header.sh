@@ -1,5 +1,5 @@
 #crea un directorio ".vim" en la raíz(root), si no existe
-mkdir -p ~/.vi
+mkdir -p ~/.vim
 #entra en el directorio plugin que hemos creado
 cd !$ 
 #clona el plugin necesario para añadir el header usando vim desde el repositorio de github
