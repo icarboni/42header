@@ -4,9 +4,11 @@ mkdir -p ~/.vim
 cd ~/.vim
 #clona el plugin necesario para añadir el header usando vim desde el repositorio de github
 git clone https://github.com/pbondoer/vim-42header.git clone
-#vuelve a la raíz(root)
+#mueve el directorio "after" en el directorio ".vim"
 mv ~/.vim/clone/after ~/.vim
-rm -fR ~/.vim/vim-42header
+#borra el directorio "clone"
+rm -fR ~/.vim/clone
+#vuelve a la raíz(root)
 cd ~
 #crea un archivo ".zshrc"
 #es necesario modificar "user" con tu propio nombre de usuario (el que usas para el login)
