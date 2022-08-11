@@ -5,7 +5,7 @@ Además puedes ver el GitHub original del plugin en el siguiente enlace:
 https://github.com/pbondoer/vim-42header
 
 IMPORTANTE:
-Es necesario abrir el file "header.sh" y modificar la siguiente linea de codigo, remplazando "user" con tu usuario de 42.
+Es necesario abrir el file "header.sh" y modificar la siguiente linea de codigo, remplazando "user" con tu usuario de 42.<br>
 <code> - echo "export MAIL=\"user@student.42malaga.com\"" > .zshrc</code>
 
 @josecp77
