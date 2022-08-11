@@ -1,5 +1,5 @@
 # 42header
-Ejecutable para configurar el plugin necesario para añadir el header 42 en el editor vim.
+Ejecutable para configurar el plugin necesario para añadir el header 42 en el editor vim.<br>
 El file "header.sh" tiene comentarios en cada comando, invitamos a leerlos y entender lo que hace.
 Además puedes ver el GitHub original del plugin en el siguiente enlace:
 https://github.com/pbondoer/vim-42header
@@ -9,5 +9,5 @@ Es necesario abrir el file "header.sh" y modificar la siguiente linea de codigo,
 <code>echo "export MAIL=\"user@student.42malaga.com\"" > .zshrc</code>
 
 @ [ilenia-carboni](https://github.com/ilenia-carboni)<br>
-@ [josecp77] (https://github.com/Josecp77)<br>
+@ [josecp77](https://github.com/Josecp77)<br>
 
