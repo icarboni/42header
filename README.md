@@ -8,6 +8,8 @@ IMPORTANTE:
 Es necesario abrir el file "header.sh" y modificar la siguiente linea de codigo, remplazando "user" con tu usuario de 42.<br>
 <code>echo "export MAIL=\"user@student.42malaga.com\"" > .zshrc</code>
 
-@ [ilenia-carboni](https://github.com/ilenia-carboni)<br>
-@ [josecp77](https://github.com/Josecp77)<br>
+Si teneis preguntas podéis escribirnos en slack.
+
+@ [ilenia-carboni](https://github.com/ilenia-carboni) (icarboni)<br>
+@ [josecp77](https://github.com/Josecp77) (jcanto)<br>
 
