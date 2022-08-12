@@ -10,9 +10,12 @@ https://github.com/pbondoer/vim-42header
 
 <b>Procedura:</b><br>
 - Abrir la terminal<br>
-- Ejecutar el siguiente comando:<br>
-<code>git clone https://github.com/ilenia-carboni/42header && cd ~/42header/ </code><br>
+- Ejecutar los siguientes comandos:<br>
+<code>git clone https://github.com/ilenia-carboni/42header </code><br>
+<code> cd 42header </code>
 - Abrir el file y modificar el usuario como ha sido explicado anteriormente<br>
+- Ejecutar
+<code> bash header.sh </code>
 - Cerrar la terminal y abrir una nueva<br><br>
 
 <b>Para visualizar la header en un file vim:</b><br>
